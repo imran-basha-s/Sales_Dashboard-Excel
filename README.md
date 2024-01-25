@@ -16,27 +16,34 @@ targets.
 
 The raw dataset is available in the form of an excelsfile. It has three sheets named, 
 “orders, customers, and products.”
-The dataset spans from 2
-nd Jan 2019 to 19th Aug 2022, has 1000 entries and covers
+
+The dataset spans from 2nd Jan 2019 to 19th Aug 2022, has 1000 entries and covers
 data from 3 countries.
-Orders Worksheet:
-Order ID: A unique identifier for each coffee order.
-Order Date: The date when the order was placed.
-Customer ID: An identifier linking the order to a specific customer.
-Product ID: A unique identifier for each coffee product.
-Quantity: The quantity of the coffee product ordered.
-P a g e | 2
-Customers Worksheet:
-Customer ID: A unique identifier for each customer.
-Customer Name: The name of the customer.
-Email Address: Contact information for customers.
-Phone Number: Another contact detail for customers.
-And more.
-Products Worksheet:
-Product ID: A unique identifier for each coffee product.
-Coffee Type: The type or blend of coffee, such as Arabica or Robusta.
-Roast Type: The roast level, including light, medium, or dark roast.
-Size: Information about the product size.
-Unit Price: The price of a single unit of the coffee product.
-Price Per 100g: The price per 100 grams for detailed price comparisons.
-Profit: Insights into the profitability of each coffee product.
+
+The dataset can be downloaded from [Here](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset/data)
+
+**Orders Worksheet:**
+
+Order ID: A unique identifier for each coffee order.<br>
+Order Date: The date when the order was placed.<br>
+Customer ID: An identifier linking the order to a specific customer.<br>
+Product ID: A unique identifier for each coffee product.<br>
+Quantity: The quantity of the coffee product ordered.<br>
+
+**Customers Worksheet:**
+
+Customer ID: A unique identifier for each customer.<br>
+Customer Name: The name of the customer.<br>
+Email Address: Contact information for customers.<br>
+Phone Number: Another contact detail for customers.<br>
+And more.<br>
+
+**Products Worksheet:**
+
+Product ID: A unique identifier for each coffee product.<br>
+Coffee Type: The type or blend of coffee, such as Arabica or Robusta.<br>
+Roast Type: The roast level, including light, medium, or dark roast.<br>
+Size: Information about the product size.<br>
+Unit Price: The price of a single unit of the coffee product.<br>
+Price Per 100g: The price per 100 grams for detailed price comparisons.<br>
+Profit: Insights into the profitability of each coffee product.<br>
