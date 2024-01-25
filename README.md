@@ -1,5 +1,7 @@
 # Sales_Dashboard-Excel
 
+![Sample Image](https://github.com/imran-basha-s/Sales_Dashboard-Excel/blob/main/sales_dashboard.png)
+
 ## Coffee Sales Dashboard
 
 This project delves into a rich pool of information concerning coffee beans and 
