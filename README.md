@@ -47,3 +47,21 @@ Size: Information about the product size.<br>
 Unit Price: The price of a single unit of the coffee product.<br>
 Price Per 100g: The price per 100 grams for detailed price comparisons.<br>
 Profit: Insights into the profitability of each coffee product.<br>
+
+## Approach
+
+The points below briefly outline the approach adopted to build the dashboard.
+
+1. The required data from different worksheets was merged into the sheet 
+named “orders” using XLOOKUP.<br>
+2. The sheet named “orders” represents the working sheet for the project.<br>
+3. Basic data cleaning & preprocessing like checking for duplicates, 
+formatting the date, size, unit price, and sales column was done to tidy up 
+the data and make it ready for the next step.<br>
+4. Three Pivot Tables, were created - total sales, country bar chart, and top 10 
+products.<br>
+5. Correspondingly the pivot charts named – total sales timeline, sales by 
+country, and top 10 products were generated.<br>
+6. All the necessary charts along with timeline and slicers were combined to 
+develop a dashboard within the same excel file.<br>
+
