@@ -1,6 +1,6 @@
 # Sales_Dashboard-Excel
 
-![](https://github.com/imran-basha-s/Sales_Dashboard-Excel/blob/main/sales_dashboard.png)
+
 
 ## Coffee Sales Dashboard
 
